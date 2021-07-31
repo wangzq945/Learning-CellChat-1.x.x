@@ -225,7 +225,6 @@ gg1 <- netAnalysis_signalingRole_scatter(cellchat)
 gg2 <- netAnalysis_signalingRole_scatter(cellchat, signaling = c("CXCL", "CCL"))
 gg1 + gg2
 
-
 ### Identify signals contributing most to outgoing or incoming signaling of certain cell groups ----
 
 # Signaling role analysis on the aggregated cell-cell communication network from all signaling pathways
