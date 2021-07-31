@@ -12,3 +12,5 @@ Priorly run:  [main.R](main.R)
 * [Interface_with_other_single-cell_analysis_toolkits.R](Interface_with_other_single-cell_analysis_toolkits.R) 
 * Tutorial for updating ligand-receptor database CellChatDB:  
   *  [Update_CellChatDB.R](Update_CellChatDB.R) 
+* Extraction of the ligand-receptor interaction information in CellChatDB: 
+  *  [CellChatDB.R](CellChatDB.R) 
